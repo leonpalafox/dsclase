@@ -60,37 +60,37 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.  Introducción al Pensamiento Analítico de Datos (1 Clase)
+1.  Introducción al Pensamiento Analítico de Datos
     1. Historia dela Ciencia de Datos
     2. Ecosistema de herramientas en la Ciencia de Datos
     3. Casos de uso de la ciencia de datos
-2.  Problemas de Negocio y Soluciones de Ciencia de Datos (1 Clase)
-a.  Ciencia de datos en el mercado de servicios
-i.  Telecomunicaciones
-ii. IT
-iii.    Entretenimiento
-iv. Transporte
-b.  Ciencia de datos en el mercado manufacturero
-i.  Automotriz
-ii. Electrodomésticos
-c.  Internet de las Cosas (IoT)
-3.  Introducción al Análisis de Datos (6 Clases)
-a.  Introducción a los tipos de datos.
-i.  Datos Estructurados
-ii. Datos No Estructurados
-b.  Introducción a R/Python
-c.  Introducción a los dataframes 
-d.  Funciones básicas de un dataframe
-e.  Limpieza de Datos
-f.  Tipos de Visualización
-g.  Visualización en R/Python
+2.  Problemas de Negocio y Soluciones de Ciencia de Datos
+    1. Ciencia de datos en el mercado de servicios
+        1. Telecomunicaciones
+        2. IT
+        3. Entretenimiento
+        4. Transporte
+    2. Ciencia de datos en el mercado manufacturero
+        1. Automotriz
+        2. Electrodomésticos
+    3. Internet de las Cosas (IoT)
+3.  Introducción al Análisis de Datos
+    1. Introducción a los tipos de datos.
+        1. Datos Estructurados
+        2. Datos No Estructurados
+    2. Introducción a R/Python
+    3. Introducción a los dataframes 
+    4. Funciones básicas de un dataframe
+    5. Limpieza de Datos
+    6. Tipos de Visualización
+    7. Visualización en R/Python
 4.  Herramientas de Inteligencia de Negocios.
-a.  Gobernanza de Datos
-b.  Ciclo de vida del dato
-5.  Herramientas de análisis de datos (Excel, OLAP, ML) (1 Clase)
-6.  Herramientas de visualización de datos (1 Clase)
-a.  Tableau
-b.  Power BI
+    1. Gobernanza de Datos
+    2. Ciclo de vida del dato
+5.  Herramientas de análisis de datos (Excel, ML)
+6.  Herramientas de visualización de datos
+    1. Tableau
+    2. Power BI
 7.  Proyecto de Inteligencia de Negocios (Todo el curso)
 
 
