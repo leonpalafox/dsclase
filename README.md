@@ -61,9 +61,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Temario
 
 1.  Introducción al Pensamiento Analítico de Datos (1 Clase)
-        1. Historia dela Ciencia de Datos
-        2.  Ecosistema de herramientas en la Ciencia de Datos
-        3.  Casos de uso de la ciencia de datos
+    1. Historia dela Ciencia de Datos
+    2. Ecosistema de herramientas en la Ciencia de Datos
+    3. Casos de uso de la ciencia de datos
 2.  Problemas de Negocio y Soluciones de Ciencia de Datos (1 Clase)
 a.  Ciencia de datos en el mercado de servicios
 i.  Telecomunicaciones
