@@ -18,21 +18,21 @@
 
 # Introduccion
 
-En esta clase estudiaremos las diferentes técnicas de Machine Learning y sus apliaciones. Se veran tecnicas básicas y el estado del arte, asi como técnicas para evaluar cada algoritmo con diferentes sets de datos.
+En esta clase estudiaremos las diferentes técnicas de Ciencia de Datos y sus apliaciones. Se veran tecnicas básicas y el estado del arte, asi como el uso de la Ciencia de Datos para agregar valor a un negocio.
 
 # Objetivo
 
-Los estudiantes serán capaces de implementar y validar diferentes técnicas de Machine Learning en diferentes sets de datos relacionados a distintos campos. los estudiantes aprenderan la diferencia entre aprendizaje sueprvisado y no supervisado.
+El curso inducirá al alumno a la ciencia de datos y proporcionará conocimientos y habilidades para utilizar las diferentes herramientas de Inteligencia de Negocios para generar valor y dar soporte a la toma de decisiones. Se detallarán mejores prácticas y se dará una introducción al ciclo de vida de un proyecto de Ciencia de Datos.
 
 # Estructura del Curso
 
 ## Horas de clase
 
-Esta clase será diario de 7:00 p.m a 10:00 p.m.
+Esta clase será los Martes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/claseml/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase/
 
 ## Horas de oficina
 
@@ -43,7 +43,7 @@ Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo u
 La evaluación consistirá en:
 
 - El proyecto final será el 60% de la evaluación final.
-    - El proyecto final consistira en el uso de un técnica de Machine Learning en un set de datos de su preferencia, con su correspondiente diseño y evaluación.
+    - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
 	- Pueden hacer equipos de hasta tres personas.
 	- Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
 
@@ -60,36 +60,39 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.	[Introducción](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true) (Dia 1)
-    1. Qué es Machine Learning?
-    2. Aplicaciones Modernas de Machine Learning.
-    3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
-2.	Bases teóricas (Dia 2)
-    1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
-    2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
-3.	Aprendizaje supervisado. (Dia 3,4)
-    1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
-        1. [Ejemplo 2](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression2.ipynb)
-        2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)    2. Clasificadores
-        1. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter4SVMs/SVMNotebook.ipynb)
-        2. Redes Neuronales Artificiales
-        3. [Deep Learning]
-        4. Convolutional Neural Networks
-		          1. [Clasificador usando Tensorflow]
-		          2. [CNN usando Tensorflow]
-4. Métodos de Validación (Dia 5)
-    1. [Validación Curzada](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
-    2. Analisis de Bias-Variance
-    3. [ROC y AUC]
-6. Aprendizaje no supervisado (Dia 6,7)
-    1. Clustering
-        1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter7Clustering/EjemplodeKMeans.ipynb)
-        2. Aplicaciones
-    2. Técnicas de reducción de dimensionalidad
-        1. [Análisis de componentes principales](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/PCA Analysis.ipynb)
-        2. [Análisis de componentes independientes](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/ICA analysis.ipynb)
-        3. [T-SNE](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8TSNE/TSNEDemo.ipynb)
-8. Examen Final y Entrega de Proyectos (Dia 8)
+1.  Introducción al Pensamiento Analítico de Datos (1 Clase)
+        Historia dela Ciencia de Datos
+b.  Ecosistema de herramientas en la Ciencia de Datos
+c.  Casos de uso de la ciencia de datos
+2.  Problemas de Negocio y Soluciones de Ciencia de Datos (1 Clase)
+a.  Ciencia de datos en el mercado de servicios
+i.  Telecomunicaciones
+ii. IT
+iii.    Entretenimiento
+iv. Transporte
+b.  Ciencia de datos en el mercado manufacturero
+i.  Automotriz
+ii. Electrodomésticos
+c.  Internet de las Cosas (IoT)
+3.  Introducción al Análisis de Datos (6 Clases)
+a.  Introducción a los tipos de datos.
+i.  Datos Estructurados
+ii. Datos No Estructurados
+b.  Introducción a R/Python
+c.  Introducción a los dataframes 
+d.  Funciones básicas de un dataframe
+e.  Limpieza de Datos
+f.  Tipos de Visualización
+g.  Visualización en R/Python
+4.  Herramientas de Inteligencia de Negocios.
+a.  Gobernanza de Datos
+b.  Ciclo de vida del dato
+5.  Herramientas de análisis de datos (Excel, OLAP, ML) (1 Clase)
+6.  Herramientas de visualización de datos (1 Clase)
+a.  Tableau
+b.  Power BI
+7.  Proyecto de Inteligencia de Negocios (Todo el curso)
+
 
 # Slides
 
