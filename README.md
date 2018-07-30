@@ -96,27 +96,17 @@ b.  Power BI
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
-- [Clase 2 - Fundamentos, Regresión Lineal?](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture2.pdf)
-- [Clase 3/4 - Regresión Lineal, SVMs](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture3.pdf)
-- [Clase 5 - Métodos de Validación](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture4.pdf)
-- [Clase 6 - Aprendizaje No Supervisado](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture5.pdf)
-- [Clase 7 - Aprendizaje No Supervisado/ICA](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture6.pdf)
+
 
 
 
 # Tareas
 
-- [Tarea 1 - Aprendizaje Supervisado](https://github.com/leonpalafox/mlclase/blob/master/tareas/HW1.pdf)
+
 
 # Libros de texto
 
-El curso no requiere de libros de texto adjuntos, sin embargo, los siguientes libros son útiles para dar seguimiento al curso:
-
-- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006. 
-- Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011. (http://www.dcs.gla.ac.uk/~srogers/firstcourseml/)
-- James, Gareth, et al. An introduction to statistical learning. New York: Springer, 2013. (http://www-bcf.usc.edu/~gareth/ISL/)
-- Petersen, Kaare Brandt, and Michael Syskind Pedersen. The matrix cookbook. Technical University of Denmark 7 (2008): 15. (https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+El curso no requiere de libros de texto adjuntos
 
 # Material especial para la clase
 
