@@ -1,0 +1,9 @@
+title: Clase de Introducción a Data Science
+logo: /images/escudo.jpg
+description: Clase de Introducción a Data Science en la Universidad Panamericana
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
