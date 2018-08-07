@@ -47,6 +47,8 @@ La evaluación consistirá en:
     - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
   - Pueden hacer equipos de hasta tres personas.
   - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
+  - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
+
 
 - El restante 40% será distribuido de la siguiente forma:
   - Dos examenes. 
