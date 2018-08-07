@@ -10,6 +10,7 @@
 - [Absentismo](#absentismo)
 - [Temario](#temario)
 - [Slides](#slides)
+- [Ejercicios](#ejercicios)
 - [Tareas](#tareas)
 - [Libros de Texto](#libros-de-texto)
 - [Material Especial requerido para la clase](#material-especial-para-clase)
@@ -101,8 +102,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 2 - Datos](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_2018.pdf)
 
 
+# Ejercicios
 
-
+- [Introducción a Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
 
 # Tareas
 
