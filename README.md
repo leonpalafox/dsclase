@@ -104,7 +104,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Ejercicios
 
-- [Introducción a Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
+- Introducción a Python[1](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)[2](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/intro_python_2.ipynb)
 
 # Tareas
 
