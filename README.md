@@ -100,6 +100,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_2018.pdf)
 - [Clase 2 - Datos](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_2018.pdf)
+- [Clase 6 - Machine Learning](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_6_2018.pdf)
+
 
 
 # Ejercicios
