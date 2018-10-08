@@ -30,7 +30,7 @@ El curso inducirá al alumno a la ciencia de datos y proporcionará conocimiento
 
 ## Horas de clase
 
-Esta clase será los Martes de 7:00 p.m a 10:00 p.m.
+Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
@@ -109,7 +109,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas.
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
 
 
 # Lecturas

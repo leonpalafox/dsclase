@@ -109,7 +109,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas.
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
 
 
 # Lecturas
