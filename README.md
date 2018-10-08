@@ -114,7 +114,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Lecturas
 
-- [Enterprise Data Analysis and Visualization: An Interview Study]()
+- [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 
 
 
