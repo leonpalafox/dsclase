@@ -100,19 +100,21 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_2018.pdf)
-- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_2018.pdf)
-- [Clase 5 - Data Management & Cloud](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_5_2018.pdf)
-- [Clase 6 - Machine Learning](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_6_2018.pdf)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pdf)
 
 
 # Ejercicios
 
-- Introducción a Python [Ejercicio 1](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)[Ejercicio 2](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/intro_python_2.ipynb)
-- [Demo](https://github.com/leonpalafox/dsclase/blob/master/Capitulo2Demo/ChurnAnalysis.ipynb)
+
 
 # Tareas
 
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas.
+
+
+# Lecturas
+
+- [Enterprise Data Analysis and Visualization: An Interview Study]()
 
 
 # Libros de texto
