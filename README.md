@@ -99,6 +99,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pdf)
+- [Clase 2 - Datos/Python](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_20182.pdf)
 
 
 
@@ -110,11 +111,12 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Tareas
 
 1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
-
+2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. Entrega 29 de Octubre
 
 # Lecturas
 
 - [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
+- [Snow and Cholera](https://www.inferentialthinking.com/chapters/02/causality-and-experiments)
 
 
 
