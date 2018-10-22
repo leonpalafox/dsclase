@@ -112,11 +112,13 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
 2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. Entrega 29 de Octubre
+3. De la lectura de Data Visualization escribir un reporte. Entrega 5 de Noviembre
 
 # Lecturas
 
 - [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 - [Snow and Cholera](https://www.inferentialthinking.com/chapters/02/causality-and-experiments)
+- [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 
 
 
