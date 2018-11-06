@@ -108,6 +108,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Ejercicios
 
 - [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
+- [Ejercicio de Churn](https://github.com/leonpalafox/dsclase/blob/master/Capitulo2Demo/ChurnAnalysis.ipynb)
 
 
 # Tareas
