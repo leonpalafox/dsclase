@@ -101,6 +101,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pdf)
 - [Clase 2 - Datos/Python](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_20182.pdf)
 - [Clase 3 - Data Governance - Cloud](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_3_20182.pdf)
+- [Clase 4 - Machine Learning](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_4_20182.pdf)
+
 
 
 
